@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 <a href="https://www.linkedin.com/in/volodymyr-perun-85b4ab18b/">
  <img alt="Volodymyr's LinkdeIN | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -26,6 +26,7 @@
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
+<img alt="redux-toolkit" src="https://img.shields.io/badge/redux toolkit-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="react native" src="https://img.shields.io/badge/react native-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
@@ -46,14 +47,21 @@
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="webstorm" src="https://img.shields.io/badge/webstorm-02C6D1.svg?&style=for-the-badge&logo=webstorm&logoColor=fff" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-E10098.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+<img alt="bitrise" src="https://img.shields.io/badge/bitrise-7610F7.svg?&style=for-the-badge&logo=bitrise&logoColor=fff" />&nbsp;
+<img alt="postman" src="https://img.shields.io/badge/postman-E34F26.svg?&style=for-the-badge&logo=postman&logoColor=fff" />&nbsp;
+<img alt="swagger" src="https://img.shields.io/badge/swagger-26A944.svg?&style=for-the-badge&logo=swagger&logoColor=fff" />&nbsp;
+<img alt="flipper" src="https://img.shields.io/badge/flipper-7610F7.svg?&style=for-the-badge" />&nbsp;
+<img alt="reactotron" src="https://img.shields.io/badge/reactotron-E34F26.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 
 ### ⚙ GitHub Analytics:
 
 <table>
   <tr>
-  <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=VolodymyrPerun&show_icons=true&count_private=true&theme=algolia" alt="Volodymyr's Github stats" />
-      </td>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=VolodymyrPerun&show_icons=true&count_private=true&theme=algolia" alt="Volodymyr's Github stats" />
+    </td>
     <td>
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VolodymyrPerun&theme=algolia" alt="Volodymyr's Github stats" />
     </td>
