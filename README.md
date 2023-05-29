@@ -2,9 +2,9 @@
 <a href="https://www.linkedin.com/in/volodymyr-perun-85b4ab18b/">
  <img alt="Volodymyr's LinkdeIN | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/volodimirperun/">
+<!-- <a href="https://www.instagram.com/volodimirperun/">
  <img alt="Volodymyr's Instagram | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=VolodymyrPerun.VolodymyrPerun)
 
