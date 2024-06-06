@@ -10,7 +10,7 @@
 
 <br />
 
-📍Hi, I'm <b>Volodymyr Perun</b>, a <b>Front-End Developer</b> 🚀 from Ukraine.
+📍Hi, I'm <b>Volodymyr Perun</b>, a <b>Front-End Developer</b> 🚀.
 
 <div align="center">
   <a href="https://github.com/VolodymyrPerun?tab=repositories&sort=stargazers">
