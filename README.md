@@ -10,7 +10,7 @@
 
 <br />
 
-📍Hi, I'm <b>Volodymyr Perun</b>, a <b>Front-End Developer</b> 🚀.
+📍Hi, I'm <b>Volodymyr Perun</b>, a <b>Software Engineer | Front-end | JavaScript | TypeScript | React.js | React Native</b> 🚀.
 
 <div align="center">
   <a href="https://github.com/VolodymyrPerun?tab=repositories&sort=stargazers">
